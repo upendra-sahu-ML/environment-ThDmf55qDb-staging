@@ -10,6 +10,9 @@ dependencies:
 - name: standardmysql6-11
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: standardmysql7-11
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
 - name: upennodejs1-11
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
