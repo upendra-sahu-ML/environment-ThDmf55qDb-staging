@@ -19,9 +19,6 @@ dependencies:
 - name: standardmysql8-11
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: upennodejs1-11
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: upenpython2-11
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
