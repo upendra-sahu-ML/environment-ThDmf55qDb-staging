@@ -1,7 +1,4 @@
 dependencies:
-- name: Component1-3319
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: New01-3519
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
