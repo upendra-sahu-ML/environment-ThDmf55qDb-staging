@@ -13,3 +13,6 @@ dependencies:
 - name: pythonapp-3219
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: sample2-3919
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
