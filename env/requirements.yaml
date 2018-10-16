@@ -22,9 +22,6 @@ dependencies:
 - name: sample-6023
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: sample2-3919
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: thdmf55qdb
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
