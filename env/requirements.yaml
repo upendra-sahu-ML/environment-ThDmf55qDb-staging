@@ -7,18 +7,3 @@ dependencies:
   name: exposecontroller
   repository: https://chartmuseum.build.cd.jenkins-x.io
   version: 2.3.58
-- name: mymsql-3719
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: mysql-4820
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
-- name: reusecomp
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: sample-6023
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: thdmf55qdb
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.5
