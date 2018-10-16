@@ -15,7 +15,7 @@ dependencies:
   version: 0.0.1
 - name: mypythonapp-5923
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
+  version: 0.0.2
 - name: mysql-4820
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
