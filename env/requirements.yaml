@@ -13,9 +13,6 @@ dependencies:
 - name: mysqladmin-6528
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: mysqlmetrics-6728
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: redis-6828
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
