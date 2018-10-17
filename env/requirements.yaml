@@ -13,6 +13,3 @@ dependencies:
 - name: redis-6828
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: samplesql-6327
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
