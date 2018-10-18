@@ -19,6 +19,9 @@ dependencies:
 - name: phpmyadmin-7534
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: postgre-7635
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: samplego-7032
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
