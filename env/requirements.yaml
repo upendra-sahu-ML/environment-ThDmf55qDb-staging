@@ -10,6 +10,3 @@ dependencies:
 - name: postgre-7635
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: pythin-http-7735
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
