@@ -10,3 +10,6 @@ dependencies:
 - name: pythonapp-9442
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: sam1-9643
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
